@@ -6,7 +6,7 @@ import pandas as pd
 from src.settings import settings
 from src.data_io import load_csv_or_none
 
-# Reuse your existing class for now; migrate to src/ later at your pace.
+# Please go ahead and use your existing class for now; you can then migrate to src/ later at your own pace.
 try:
     from landslide_agent_app import LandslideAgentPoly, build_context_text
 except Exception as e:
