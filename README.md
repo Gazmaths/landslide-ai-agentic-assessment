@@ -20,7 +20,7 @@ pip install -r requirements.txt
 
 2. Run the application:
 ```bash
-streamlit run landslide_agent.py
+streamlit run landslideagent_app.py
 ```
 
 ## Usage
