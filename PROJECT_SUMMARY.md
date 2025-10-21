@@ -6,16 +6,12 @@ You now have a complete agentic AI system for landslide susceptibility analysis!
 
 ### 📂 Project Files Created:
 
-1. **`landslide_agent.py`** - Basic Streamlit application
-2. **`enhanced_landslide_agent.py`** - Advanced version with more features
-3. **`analyze_data.py`** - Data analysis script
-4. **`test_agent.py`** - Comprehensive testing script
-5. **`simple_test.py`** - Basic functionality test
+1. **`landslide_agent_app.py`** - Basic Streamlit application
+2. **`analyze_data.py`** - Data analysis script
 6. **`requirements.txt`** - Python dependencies
 7. **`README.md`** - Project documentation
 8. **`.env.example`** - Environment configuration template
-9. **`start_agent.bat`** - Windows startup script (basic version)
-10. **`start_enhanced.bat`** - Windows startup script (enhanced version)
+
 
 ## 🚀 How to Run the Application
 
@@ -170,12 +166,7 @@ Landslide Agent Architecture
 - **Caching**: Streamlit caching for repeated analyses
 - **Memory Management**: Optimized for large datasets
 
-## 🧪 Testing
 
-Run the test suite:
-```bash
-python test_agent.py
-```
 
 Tests cover:
 - Data loading functionality
