@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+venv/
+.env
+.env.*
+.env.local
+
+# Streamlit
+.streamlit/secrets.toml
+
+# OS / IDE
+.DS_Store
+.idea/
+.vscode/
+
+# Data & large exports
+data/
+*.csv
+*.parquet
+*.geojson
+*.gpkg
+
+# Logs
+logs/
+*.log
