@@ -16,7 +16,7 @@ Key features:
 - Uses environment variable OPENAI_API_KEY (or Streamlit sidebar text input) for chat if desired.
 
 Files expected (adjust paths in sidebar as needed):
-- landslide_prob.csv         : optional point probabilities (cols: lon, lat, prob) or your own format (see COLMAP_PROB below).
+- landslide_prob.csv        : optional point probabilities (cols: lon, lat, prob) or your own format (see COLMAP_PROB below).
 - landslide_truth.csv        : ground-truth landslides (coordinate columns + Slp_config + MovementDate if available).
 
 Note:
