@@ -6,7 +6,7 @@ import pandas as pd
 import numpy as np
 
 def analyze_landslide_data():
-    """Analyze the landslide probability CSV data"""
+    """ Analyze the landslide probability CSV data"""
     print("Loading landslide probability data...")
     df = pd.read_csv('landslide_prob.csv')
     
